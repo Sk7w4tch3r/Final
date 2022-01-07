@@ -1,9 +1,9 @@
 # Face Recognition
-Query a given face, either from given image or from webcam, whitin pictures, either from given directory or from webcam.
+Query a given face, either from a given image or from a webcam, within pictures, either from a given directory or from the webcam.
 
 ## Demo
 <!-- include demo gif -->
-Here is a demo of me using this library. I use my Github profile picture as a query to detect on live webcam.
+Here is a demo of me using this library. I use my Github profile picture as a query to detect on a live webcam.
 ### Query:
 ![](./sk7w4tch3r.jpg)
 ### Result:
