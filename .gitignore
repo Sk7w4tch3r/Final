@@ -1,0 +1,8 @@
+face.ipynb
+*.png
+*.jpg
+lab.py
+face_detection.py
+__pycache__
+classifiers
+*.pyc
