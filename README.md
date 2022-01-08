@@ -6,8 +6,8 @@ Query a given face, either from a given image or from a webcam, within pictures,
 Here is a demo of me using this library. I use my Github profile picture as a query to detect on a live webcam.
 ### Query:
 ![](./sk7w4tch3r.jpg)
-### Result:
-![](./demo.gif)
+### Result (GIF):
+![demo.gif](./demo.gif)
 
 
 <hr>
